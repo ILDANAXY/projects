@@ -1,0 +1,13 @@
+D:\VS C#\Приветствие и ваш возраст\Приветствие и ваш возраст\obj\Debug\netcoreapp3.1\Приветствие и ваш возраст.csprojAssemblyReference.cache
+D:\VS C#\Приветствие и ваш возраст\Приветствие и ваш возраст\obj\Debug\netcoreapp3.1\Приветствие и ваш возраст.AssemblyInfoInputs.cache
+D:\VS C#\Приветствие и ваш возраст\Приветствие и ваш возраст\obj\Debug\netcoreapp3.1\Приветствие и ваш возраст.AssemblyInfo.cs
+D:\VS C#\Приветствие и ваш возраст\Приветствие и ваш возраст\obj\Debug\netcoreapp3.1\Приветствие и ваш возраст.csproj.CoreCompileInputs.cache
+D:\VS C#\Приветствие и ваш возраст\Приветствие и ваш возраст\bin\Debug\netcoreapp3.1\Приветствие и ваш возраст.exe
+D:\VS C#\Приветствие и ваш возраст\Приветствие и ваш возраст\bin\Debug\netcoreapp3.1\Приветствие и ваш возраст.deps.json
+D:\VS C#\Приветствие и ваш возраст\Приветствие и ваш возраст\bin\Debug\netcoreapp3.1\Приветствие и ваш возраст.runtimeconfig.json
+D:\VS C#\Приветствие и ваш возраст\Приветствие и ваш возраст\bin\Debug\netcoreapp3.1\Приветствие и ваш возраст.runtimeconfig.dev.json
+D:\VS C#\Приветствие и ваш возраст\Приветствие и ваш возраст\bin\Debug\netcoreapp3.1\Приветствие и ваш возраст.dll
+D:\VS C#\Приветствие и ваш возраст\Приветствие и ваш возраст\bin\Debug\netcoreapp3.1\Приветствие и ваш возраст.pdb
+D:\VS C#\Приветствие и ваш возраст\Приветствие и ваш возраст\obj\Debug\netcoreapp3.1\Приветствие и ваш возраст.dll
+D:\VS C#\Приветствие и ваш возраст\Приветствие и ваш возраст\obj\Debug\netcoreapp3.1\Приветствие и ваш возраст.pdb
+D:\VS C#\Приветствие и ваш возраст\Приветствие и ваш возраст\obj\Debug\netcoreapp3.1\Приветствие и ваш возраст.genruntimeconfig.cache
